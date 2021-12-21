@@ -3,7 +3,7 @@ My browser homepage repository, with the nord color scheme. Hosted on GitHub pag
 
 [GitHub Pages Link](https://vyzicgithub.github.io/homepage/)
 
-Forked from [Jaredk3nt/homepage](https://github.com/JaredK3nt/homepage), with color scheme and font changes.
+Forked from [JaredK3nt/homepage](https://github.com/JaredK3nt/homepage), with color scheme and font changes.
 
 Prerequisites: Steam and Spotify, needed for the "Open Client" option under the "Gaming" category
 
