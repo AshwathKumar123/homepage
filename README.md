@@ -1,5 +1,9 @@
 # Homepage
-## My browser homepage repository, with the nord color scheme. Hosted on GitHub pages for everyone to use.
+My browser homepage repository, with the nord color scheme. Hosted on GitHub pages for everyone to use. [GitHub Pages Link](https://vyzicgithub.github.io/homepage/)
+
+![Screenshot of homepage](https://github.com/VyzicGithub/homepage/blob/main/homepage-screenshot.png)
+
+Forked from [JaredK3nt/homepage](https://github.com/JaredK3nt/homepage), with color scheme and font changes.
 
 ### Customization
 
@@ -24,35 +28,10 @@ Styles are handled through CSS variables. To update the colors you just need to 
 
 | Variable           | default                    | description                                                                                                                |
 | ------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| `--bg`             | `#5f4b8b`                  | Defines the body background color                                                                                          |
-| `--fg`             | `#ffffff`                  | Defines the primary foreground (text) color for clock, weather, and titles                                                 |
-| `--secondaryFg`    | `#b3b3b3`                  | Defines the foreground (text) color for links                                                                              |
-| `--containerBg`    | `#272727`                  | Defines the background color of the boxes                                                                                  |
-| `--searchBg`       | `--containerBg`            | Defines the background color of the search overlay                                                                         |
-| `--scrollbarColor` | `#3f3f3f`                  | Defines the color of the custom scrollbars                                                                                 |
-| `--fontFamily`     | `"Roboto Mono", monospace` | Defines the font used. To change to a custom font you will also have to import that font from whatever source is available |
-
-[GitHub Pages Link](https://vyzicgithub.github.io/homepage/)
-
-Forked from [JaredK3nt/homepage](https://github.com/JaredK3nt/homepage), with color scheme and font changes.
-
-Prerequisites: Steam and Spotify, needed for the "Open Client" option under the "Gaming" category
-
-Install links:
-[Spotify](https://www.spotify.com/download/)                [Steam](https://store.steampowered.com/about/)
-
-Or via package manager of choice
-
-How it looks:
-
-![Screenshot of homepage](https://github.com/VyzicGithub/homepage/blob/main/homepage-screenshot.png)
-
-Keybinds: Space to open up Search functionality, default search engine is Google. Can be changed within `index.html`
-
-Issues:
-
-Weather bar shows a hyphen (Only in the [GitHub Pages site](https://vyzicgithub.github.io/homepage/))
-
-This has to do with the OpenWeatherAPI. Please use your own key(s) for it.
-
-Bookmarks can be edited within `bookmarks.js`
+| `--bg`             | `#2e3440`                  | Defines the body background color |                                                                                          
+| `--fg`             | `#ffffff`                  | Defines the primary foreground (text) color for clock, weather, and titles |                                          
+| `--secondaryFg`    | `#717682`                  | Defines the foreground (text) color for links |                                                                              
+| `--containerBg`    | `#1d2128`                  | Defines the background color of the boxes |                                                                                
+| `--searchBg`       | `#2e344`                   | Defines the background color of the search overlay |                                                                         
+| `--scrollbarColor` | `#3f3f3f`                  | Defines the color of the custom scrollbars |                                                                                  
+| `--fontFamily`     | `"Product Sans", Normal` | Defines the font used. To change to a custom font you will also have to import that font from whatever source is available |
