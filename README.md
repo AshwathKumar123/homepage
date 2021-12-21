@@ -8,7 +8,7 @@ Forked from [Jaredk3nt/homepage](https://github.com/JaredK3nt/homepage), with co
 Prerequisites: Steam and Spotify, needed for the "Open Client" option under the "Gaming" category
 
 Install links:
-[Spotify](https://www.spotify.com/download/)    [Steam](https://store.steampowered.com/about/)
+[Spotify](https://www.spotify.com/download/)                [Steam](https://store.steampowered.com/about/)
 
 Or via package manager of choice
 
