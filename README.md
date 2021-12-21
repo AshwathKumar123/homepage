@@ -23,3 +23,5 @@ Issues:
 Weather bar shows a hyphen (Only in the [GitHub Pages site](https://vyzicgithub.github.io/homepage/))
 
 This has to do with the OpenWeatherAPI. Please use your own key(s) for it.
+
+Bookmarks can be edited within `bookmarks.js`
