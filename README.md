@@ -1,4 +1,4 @@
-# homepage
+# Homepage
 My browser homepage repository, with the nord color scheme. Hosted on GitHub pages for everyone to use.
 
 [GitHub Pages Link](https://vyzicgithub.github.io/homepage/)
