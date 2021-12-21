@@ -20,6 +20,6 @@ Keybinds: Space to open up Search functionality, default search engine is Google
 
 Issues:
 
-Weather bar shows a ** - **
+Weather bar shows a hyphen
 
 This has to do with the OpenWeatherAPI. Please use your own key(s) for it.
