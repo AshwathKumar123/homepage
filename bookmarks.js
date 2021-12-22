@@ -39,7 +39,6 @@ const bookmarks = [
     links: [
       { name: "Arch Linux", url: "https://archlinux.org/" },
       { name: "r/linux", url: "https://reddit.com/r/linux/" },
-      { name: "r/unixporn", url: "https://reddit.com/r/unixporn/" },
     ],
   },
 ];
