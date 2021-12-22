@@ -32,14 +32,14 @@ const bookmarks = [
         url: "steam://open/main",
       },
       { name: "Spotify (Open Client)", url: "spotify://open" },
-      { name: "Reserved 3", url: "about:blank" },
     ],
   },
   {
     title: "Random",
     links: [
-      { name: "Reserved 4", url: "about:blank" },
-      { name: "Reserved 5", url: "about:blank" },
+      { name: "Arch Linux", url: "https://archlinux.org/" },
+      { name: "r/linux", url: "https://reddit.com/r/linux/" },
+      { name: "r/unixporn", url: "https://reddit.com/r/unixporn/" },
     ],
   },
 ];
