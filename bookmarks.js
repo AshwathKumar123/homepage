@@ -3,7 +3,7 @@ const bookmarks = [
   {
     title: "Essentials",
     links: [
-      { name: "Gmail", url: "https://gmail.com" },
+      { name: "Gmail", url: "https://mail.google.com" },
       { name: "Teams", url: "https://teams.microsoft.com" },
       { name: "GitHub", url: "https://github.com" },
     ],
@@ -22,11 +22,7 @@ const bookmarks = [
     title: "Gaming",
     links: [
       { name: "Steam", url: "https://store.steampowered.com" },
-      {
-        name: "Minecraft",
-        url: "https://minecraft.net",
       },
-      { name: "Fortnite", url: "https://www.epicgames.com/fortnite/en-US/home" },
       {
         name: "Steam (Open Client)",
         url: "steam://open/main",
@@ -35,10 +31,10 @@ const bookmarks = [
     ],
   },
   {
-    title: "Random",
+    title: "Linux",
     links: [
       { name: "Arch Linux", url: "https://archlinux.org/" },
-      { name: "r/linux", url: "https://reddit.com/r/linux/" },
+      { name: "Suckless", url: "https://suckless.org/" },
     ],
   },
 ];
