@@ -22,7 +22,6 @@ const bookmarks = [
     title: "Gaming",
     links: [
       { name: "Steam", url: "https://store.steampowered.com" },
-      },
       {
         name: "Steam (Open Client)",
         url: "steam://open/main",
