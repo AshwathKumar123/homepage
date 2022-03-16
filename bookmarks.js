@@ -33,7 +33,13 @@ const bookmarks = [
     title: "Linux",
     links: [
       { name: "Arch Linux", url: "https://archlinux.org/" },
+      { name: "Arch Wiki", url: "https://wiki.archlinux.org/" },
+      { name: "AUR", url: "https://aur.archlinux.org/" },
+      { name: "Arch Packages", url: "https://archlinux.org/packages" },
+      { name: "Package Mirror", url: "https://pkgs.org/" },
       { name: "Suckless", url: "https://suckless.org/" },
+      { name: "BSPWM", url: "https://github.com/baskerville/bspwm" },
+      { name: "DMenu", url: "https://tools.suckless.org/dmenu/" },
     ],
   },
 ];
