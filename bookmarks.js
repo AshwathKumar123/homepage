@@ -3,7 +3,7 @@ const bookmarks = [
   {
     title: "Essentials",
     links: [
-      { name: "Gmail", url: "https://mail.google.com" },
+      { name: "Inbox", url: "https://mail.google.com" },
       { name: "Teams", url: "https://teams.microsoft.com" },
       { name: "GitHub", url: "https://github.com" },
     ],
