@@ -1,5 +1,5 @@
 # Homepage
-My browser homepage repository, with the nord color scheme. Hosted on GitHub pages for everyone to use. [GitHub Pages Link](https://vyzicgithub.github.io/homepage/)
+My browser homepage repository, with the nord color scheme. Hosted on GitHub pages for everyone to use. [GitHub Pages Link](https://ashwathkumar123.github.io/homepage/)
 
 ![Screenshot of homepage](https://github.com/VyzicGithub/homepage/blob/main/homepage-screenshot.png)
 
