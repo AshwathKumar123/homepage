@@ -12,7 +12,6 @@ const bookmarks = [
     title: "Media",
     links: [
       { name: "YouTube", url: "https://youtube.com" },
-      { name: "Twitch", url: "https://twitch.tv" },
       { name: "Twitter", url: "https://twitter.com" },
       { name: "Discord", url: "https://discord.com/app" },
       { name: "Spotify", url: "https://open.spotify.com" },
